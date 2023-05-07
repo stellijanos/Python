@@ -1,0 +1,9 @@
+Ioan	Pop	Fundamentals of programming	9
+Gheorghe	Dima	Advanced programming	10
+Alexandra	galatan	Advanced programming	10
+Maria	Popescu	Advanced programming	9
+Shakira	shakira	Vocal Training	10
+Paul	Pop	Advanced programming	5
+Johnny	depp	Acting 101	10
+Marian	Stanescu	Advanced programming	7
+Vasile	avram	Advanced programming	8
