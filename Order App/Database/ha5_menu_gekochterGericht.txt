@@ -1,0 +1,50 @@
+[
+  {
+    "ID": "---",
+    "Portionsgrosse": 0,
+    "Preis": 0,
+    "Zubereitungszeit": 0
+  },
+  {
+    "ID": "Pizza",
+    "Portionsgrosse": 700,
+    "Preis": 30,
+    "Zubereitungszeit": 60
+  },
+  {
+    "ID": "Shaorma",
+    "Portionsgrosse": 500,
+    "Preis": 25,
+    "Zubereitungszeit": 5
+  },
+  {
+    "ID": "Hamburger",
+    "Portionsgrosse": 400,
+    "Preis": 20,
+    "Zubereitungszeit": 10
+  },
+  {
+    "ID": "Suppe",
+    "Portionsgrosse": 300,
+    "Preis": 15,
+    "Zubereitungszeit": 90
+  },
+  {
+    "ID": "Schnitzel",
+    "Portionsgrosse": 450,
+    "Preis": 18,
+    "Zubereitungszeit": 50
+  },
+  {
+    "ID": "Pommes-Frites",
+    "Portionsgrosse": 250,
+    "Preis": 10,
+    "Zubereitungszeit": 20
+  },
+  {
+    "ID": "Chicken nuggets",
+    "Portionsgrosse": 200,
+    "Preis": 20,
+    "Zubereitungszeit": 20
+  }
+]

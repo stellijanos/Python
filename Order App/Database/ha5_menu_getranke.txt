@@ -1,0 +1,50 @@
+[
+  {
+    "ID": "---",
+    "Portionsgrosse": 0,
+    "Preis": 0,
+    "Alkoholgehalt": 0
+  },
+  {
+    "ID": "Cola",
+    "Portionsgrosse": 500,
+    "Preis": 5,
+    "Alkoholgehalt": 0
+  },
+  {
+    "ID": "Fanta",
+    "Portionsgrosse": 500,
+    "Preis": 5,
+    "Alkoholgehalt": 0
+  },
+  {
+    "ID": "Sprite",
+    "Portionsgrosse": 500,
+    "Preis": 5,
+    "Alkoholgehalt": 0
+  },
+  {
+    "ID": "Bier",
+    "Portionsgrosse": 330,
+    "Preis": 7,
+    "Alkoholgehalt": 15
+  },
+  {
+    "ID": "Jagermeister",
+    "Portionsgrosse": 200,
+    "Preis": 30,
+    "Alkoholgehalt": 30
+  },
+  {
+    "ID": "Wasser",
+    "Portionsgrosse": 500,
+    "Preis": 3,
+    "Alkoholgehalt": 0
+  },
+  {
+    "ID": "Plattes Wasser",
+    "Portionsgrosse": 500,
+    "Preis": 2,
+    "Alkoholgehalt": 0
+  }
+]

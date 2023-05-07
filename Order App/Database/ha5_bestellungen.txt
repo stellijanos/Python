@@ -1,0 +1,182 @@
+[
+  {
+    "ID": 0,
+    "Kunden ID": "887c218fa77e153727e37d555c830ba314c37648f2c9ec83a12551ff10303f6b",
+    "Name Gericht": [
+      "Pizza"
+    ],
+    "Name Getrank": [
+      "Cola"
+    ],
+    "Gesamtkosten": 35
+  },
+  {
+    "ID": 1,
+    "Kunden ID": "f1534392279bddbf9d43dde8701cb5be14b82f76ec6607bf8d6ad557f60f304e",
+    "Name Gericht": [
+      "---"
+    ],
+    "Name Getrank": [
+      "---"
+    ],
+    "Gesamtkosten": 0
+  },
+  {
+    "ID": 2,
+    "Kunden ID": "38bad5362582014497a5d7d2194dfcf449ce652f2ea7ff9614a2c7ca95dd6ccc",
+    "Name Gericht": [
+      "Shaorma",
+      "Suppe"
+    ],
+    "Name Getrank": [
+      "Sprite"
+    ],
+    "Gesamtkosten": 45
+  },
+  {
+    "ID": 3,
+    "Kunden ID": "bf5993a2786ecf85557c03e49f6262909c726c7d6b01ffffa573b7967343dbd7",
+    "Name Gericht": [
+      "Hamburger"
+    ],
+    "Name Getrank": [
+      "Bier"
+    ],
+    "Gesamtkosten": 27
+  },
+  {
+    "ID": 4,
+    "Kunden ID": "08446aa537381bddb74cbbeb3f58142f169fcd0bc4ca81a9e9c1281beb1444d1",
+    "Name Gericht": [
+      "---"
+    ],
+    "Name Getrank": [
+      "---"
+    ],
+    "Gesamtkosten": 0
+  },
+  {
+    "ID": 5,
+    "Kunden ID": "775ab657fb0bb0decfa6938f3eafdec9095e87bddca9c16b4dcdb0bbe34d8ed9",
+    "Name Gericht": [
+      "Shaorma"
+    ],
+    "Name Getrank": [
+      "Fanta"
+    ],
+    "Gesamtkosten": 30
+  },
+  {
+    "ID": 6,
+    "Kunden ID": "bf5993a2786ecf85557c03e49f6262909c726c7d6b01ffffa573b7967343dbd7",
+    "Name Gericht": [
+      "Suppe"
+    ],
+    "Name Getrank": [
+      "Plattes Wasser"
+    ],
+    "Gesamtkosten": 17
+  },
+  {
+    "ID": 7,
+    "Kunden ID": "0e19a9f0aaa849fb68eb09c4d9d9935e466716633147a76bcb37657d95f7b0de",
+    "Name Gericht": [
+      "---"
+    ],
+    "Name Getrank": [
+      "---"
+    ],
+    "Gesamtkosten": 0
+  },
+  {
+    "ID": 8,
+    "Kunden ID": "d54750a1ecdd98e51311119a8680b37c038b16e530855c9cd7688f4c0a8d55be",
+    "Name Gericht": [
+      "---"
+    ],
+    "Name Getrank": [
+      "---"
+    ],
+    "Gesamtkosten": 0
+  },
+  {
+    "ID": 9,
+    "Kunden ID": "20c3b5a7c3455acda9627db2db783ddcb224237b50f198f944cde48ecd977618",
+    "Name Gericht": [
+      "---"
+    ],
+    "Name Getrank": [
+      "---"
+    ],
+    "Gesamtkosten": 0
+  },
+  {
+    "ID": 10,
+    "Kunden ID": "0447f71cda27e44f0c038ab0cc716583cf4ad0410d58ee5d98c565ca9def5ba0",
+    "Name Gericht": [
+      "Shaorma"
+    ],
+    "Name Getrank": [
+      "Fanta"
+    ],
+    "Gesamtkosten": 30
+  },
+  {
+    "ID": 11,
+    "Kunden ID": "2af6eedfee6db3eeaa5e9216a5336f47e68c5574eebc8de44eb1bde203205a84",
+    "Name Gericht": [
+      "Hamburger",
+      "---"
+    ],
+    "Name Getrank": [
+      "Jagermeister"
+    ],
+    "Gesamtkosten": 50
+  },
+  {
+    "ID": 12,
+    "Kunden ID": "2af6eedfee6db3eeaa5e9216a5336f47e68c5574eebc8de44eb1bde203205a84",
+    "Name Gericht": [
+      "Chicken nuggets"
+    ],
+    "Name Getrank": [
+      "Jagermeister"
+    ],
+    "Gesamtkosten": 50
+  },
+  {
+    "ID": 13,
+    "Kunden ID": "98c28b3b05e6b3cdebb69e2db624392bc16d57750d4ea8d9447682ee5cc4b7b7",
+    "Name Gericht": [
+      "---",
+      "Pizza"
+    ],
+    "Name Getrank": [
+      "---",
+      "Cola"
+    ],
+    "Gesamtkosten": 35
+  },
+  {
+    "ID": 14,
+    "Kunden ID": "98c28b3b05e6b3cdebb69e2db624392bc16d57750d4ea8d9447682ee5cc4b7b7",
+    "Name Gericht": [
+      "---"
+    ],
+    "Name Getrank": [
+      "---"
+    ],
+    "Gesamtkosten": 0
+  },
+  {
+    "ID": 15,
+    "Kunden ID": "08446aa537381bddb74cbbeb3f58142f169fcd0bc4ca81a9e9c1281beb1444d1",
+    "Name Gericht": [
+      "---"
+    ],
+    "Name Getrank": [
+      "---"
+    ],
+    "Gesamtkosten": 0
+  }
+]

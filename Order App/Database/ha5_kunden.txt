@@ -1,0 +1,22 @@
+[
+  {
+    "ID": "e8c9a591a544ab1aa31b9207eb54fcf9962ab341239a9375d186893ab9f13f15",
+    "Name": "Nicolae",
+    "Adresse": "Cluj"
+  },
+  {
+    "ID": "adfb3ca0f12e5078d3414f7f104d0f4353910eae5e5ea38d32a3431caaceb6ab",
+    "Name": "Dumitru",
+    "Adresse": "Str. Constanta"
+  },
+  {
+    "ID": "4a15fca1415c44eaf4a13bfe027d0d8b2d83702da6ac83ff6a89c710dda5b520",
+    "Name": "Constantin",
+    "Adresse": "Str. Ploiesti"
+  },
+  {
+    "ID": "bf5993a2786ecf85557c03e49f6262909c726c7d6b01ffffa573b7967343dbd7",
+    "Name": "Wolfgang",
+    "Adresse": "WienerStrasse"
+  }
+]

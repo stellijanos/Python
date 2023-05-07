@@ -1,0 +1,15 @@
+[
+  {
+    "ID": "0",
+    "Kunden ID": "1",
+    "Name Gericht": [
+      "Pizza",
+      "Pasta"
+    ],
+    "Name Getrank": [
+      "Coke",
+      "Water"
+    ],
+    "Gesamtkosten": 47
+  }
+]
